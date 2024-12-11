@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balamadhan Sivaraman</h1>
 <h3 align="center">Aspiring Data Scientist and AI/ML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2020/07/what-does-a-data-scientist-in-finance-do.png">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=0&uuid=ec04f804-8611-437e-b8c8-cdbb63b325c1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamadhan&label=Profile%20views&color=0e75b6&style=flat" alt="balamadhan" /> </p>
 
