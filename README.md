@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamadhan&label=Profile%20views&color=0e75b6&style=flat" alt="balamadhan" /> </p>
 
-- 🔭 I’m currently working on **Quantum Computing**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Cybersecurity and AI/ML**
+- 🌱 I’m currently learning **Data Processing and Data Mining**
 
 - 📫 How to reach me **madhansushim@gmail.com**
 
